@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large dataset files
+*.csv
+*.zip
+*.tar.gz
+data/
+input/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# LaTeX auxiliary files (keep paper.pdf)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# OS specific files
+.DS_Store
+Thumbs.db
